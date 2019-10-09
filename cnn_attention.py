@@ -127,6 +127,7 @@ class AttentionAugmentation2D(keras.models.Model):
     
     def compute_output_shape(self, input_shape):
         output_shape = list(input_shape)
+        output_shape[-1] = self.output_filters
         return tuple(output_shape)
 
 if __name__ == '__main__':
