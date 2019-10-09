@@ -2,7 +2,7 @@
 
 Implementation of Attention Augmented Convolutional Networks using Keras
 
-Original paper: https://arxiv.org/pdf/1904.09925.pdf
+For more details see the original paper: https://arxiv.org/pdf/1904.09925.pdf
 
 Inline-style: 
 ![](/image_attn.png "Attention image")
