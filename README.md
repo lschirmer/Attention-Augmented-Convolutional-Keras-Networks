@@ -1,4 +1,4 @@
-# Attention-Augmented-Convolutional-Keras-Networks
+# Attention-Augmented-Convolutional-Networks-Keras
 
 Implementation of Attention Augmented Convolutional Networks using Keras
 
